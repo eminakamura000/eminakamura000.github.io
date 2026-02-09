@@ -37,7 +37,7 @@ Do not manually edit `public/` (it is generated automatically).
 5. Open GitHub Desktop.
 6. (Recommended) Review the changed files.
 7. Write a clear commit message (example: `Add working paper on ...`).
-8. Click **Commit to main**.
+8. Click **Commit to main**. 
 9. Click **Push origin**.
 
 ### How To Add a New Paper
