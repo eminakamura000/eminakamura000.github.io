@@ -8,6 +8,6 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "E. Morris Cox Professor of Economics, University of California, Berkeley"
-    logo = "index_files/image001.jpg"
+    logo = "images/emin.jpg"
     faviconVersion = "4"
     
