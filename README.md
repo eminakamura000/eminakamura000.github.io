@@ -23,7 +23,7 @@ Do not manually edit `public/` (it is generated automatically).
 ## Standard Workflow (Every Update)
 
 1. Open this folder in your editor:
-   - `/GitHub/eminakamura.github.io`
+   - `/GitHub/eminakamura000.github.io`
 2. Make your content/file edits.
 3. Preview locally:
    - Open Terminal
@@ -45,6 +45,7 @@ Do not manually edit `public/` (it is generated automatically).
 
 1. Add the paper PDF (and any replication `.zip` or data files) to:
    - `static/papers/`
+   If a `.zip` file is larger than 100 mb, you will not be able to push it onto GitHub. In that case, upload the file to Google Drive and add a link to it in the research section. 
 2. Open:
    - `content/research.html`
 3. Add the paper entry in HTML format (matching the existing formatting and section order).
