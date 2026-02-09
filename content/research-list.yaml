@@ -8,7 +8,7 @@ sections:
       Approach'
     pdflink: "/papers/ATC_Paper.pdf"
     coauthors: >-
-      with [David Bruns-Smith](https://brunssmith.com//) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      with [David Bruns-Smith](https://brunssmith.com//) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     abstract: >-
       A canonical finding from earlier research is that the cross-sectional variance of income increases sharply with age (Deaton and Paxson, 1994). However, the trend in this age profile is
       not separately identified from time and cohort trends. Conventional methods solve this identification problem by ruling out “time effects.” This strong assumption is rejected by the data.
@@ -20,7 +20,7 @@ sections:
     title: Beyond the Taylor Rule
     pdflink: "/papers/Taylor_Rule.pdf"
     coauthors: >-
-      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Venance Riblier](https://venance-riblier.github.io/)
+      with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/) and [Venance Riblier](https://venance-riblier.github.io/)
     book: Presented at the Jackson Hole Economic Policy Symposium, August 2025.
     abstract: >-
       The Federal Reserve partially “looked through” the post-Covid rise in inflation and ultimately managed to bring about an “immaculate disinflation.” The Fed’s policy deviated
@@ -43,7 +43,7 @@ sections:
     pdflink: "/papers/UI.pdf"
     coauthors: >-
       with [Miguel Acosta](https://www.acostamiguel.com/), [Andreas Mueller](https://sites.google.com/view/andreasimueller/)
-      and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     abstract: >-
       We study the macroeconomic effects of unemployment insurance (UI) benefit extensions in
       the United States at short and long durations. To do this, we develop a new state level dataset
@@ -60,7 +60,7 @@ sections:
   - id: 4
     title: Identification in Macroeconomics
     pdflink: "/papers/macroempirics.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Journal of Economic Perspectives*, 32(3), 59-86, Summer 2018."
     links:
     - text: Slides
@@ -72,7 +72,7 @@ sections:
   - id: 5
     title: 'Price Rigidity: Microeconomic Evidence and Macroeconomic Implications'
     pdflink: "/papers/psurvey.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Annual Review of Economics*, 5, 133-163, 2013."
     abstract: >-
       We review recent evidence on price rigidity from the macroeconomics
@@ -93,7 +93,7 @@ sections:
   - id: 6
     title: The Macroeconomic Consequences of Exchange Rate Depreciations
     pdflink: "/papers/trilemma.pdf"
-    coauthors: with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Masao Fukui](https://masaofukui.com) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Quarterly Journal of Economics*, 140(4), 3015-3065, November 2025."
     abstract: >-
       We study the consequences of “regime-induced” exchange rate depreciations
@@ -114,7 +114,7 @@ sections:
     title: A Plucking Model of Business Cycles
     pdflink: "/papers/plucking.pdf"
     coauthors: >-
-      with [Stéphane Dupraz](http://www.stephaneduprazecon.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      with [Stéphane Dupraz](http://www.stephaneduprazecon.com/) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Journal of Monetary Economics*, 152, 103766, June 2025."
     abstract: >-
       In standard models, economic activity fluctuates symmetrically around a "natural rate" and
@@ -138,7 +138,7 @@ sections:
     title: When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870
     pdflink: "/papers/malthus.pdf"
     coauthors: >-
-      with [Paul Bouscasse](https://www.paul-bouscasse.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      with [Paul Bouscasse](https://www.paul-bouscasse.com/) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Quarterly Journal of Economics*, 140(2), 835-888, May 2025."
     abstract: >-
       We estimate productivity growth in England from 1250 to 1870. Real wages
@@ -164,7 +164,7 @@ sections:
     title: Learning About the Long Run
     pdflink: "/papers/learning.pdf"
     coauthors: >-
-      with [Leland Farmer](https://www.lelandfarmer.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      with [Leland Farmer](https://www.lelandfarmer.com/) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Journal of Political Economy*, 132(10), 3334-3377, October 2024."
     abstract: >-
       Forecasts of professional forecasters are anomalous: they are biased,
@@ -182,7 +182,7 @@ sections:
   - id: 10
     title: Women, Wealth Effects, and Slow Recoveries
     pdflink: "/papers/femalelabor.pdf"
-    coauthors: with [Masao Fukui](https://masaofukui.com) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Masao Fukui](https://masaofukui.com) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*American Economic Journal: Macroeconomics*, 15(1), 269-313, January 2023."
     abstract: >-
       Business cycle recoveries have slowed in recent decades. This slowdown comes entirely from female employment, as women’s employment rates converged toward men’s during the past half-century.
@@ -202,7 +202,7 @@ sections:
     pdflink: "/papers/StateLevelCPIs.pdf"
     coauthors: >-
       with [Jonathon Hazell](https://sites.google.com/view/jadhazell/home), [Juan Herreno](https://sites.google.com/view/juanherreno)
-      and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Quarterly Journal of Economics*, 137(3), 1299-1344, August 2022."
     abstract: >-
       We estimate the slope of the Phillips curve in the cross section of U.S. states
@@ -230,7 +230,7 @@ sections:
     title: 'The Gift of Moving: Intergenerational Consequences of a Mobility Shock'
     pdflink: "/papers/giftofmoving.pdf"
     coauthors: >-
-      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Jósef Sigurdsson](https://josefsigurdsson.com/)
+      with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/) and [Jósef Sigurdsson](https://josefsigurdsson.com/)
     book: "*Review of Economic Studies*, 89(3), 1557-1592, May 2022."
     abstract: >-
       We exploit a volcanic “experiment” to study the costs and benefits of geographic mobility. In our
@@ -257,7 +257,7 @@ sections:
     pdflink: "/papers/longview.pdf"
     coauthors: >-
       with [Adam Guren](http://people.bu.edu/guren/), [Alisdair McKay](https://alisdairmckay.com/), and
-      [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Review of Economic Studies*, 88(2), 669-707, March 2021."
     abstract: >-
       We provide new time-varying estimates of the housing wealth effect back to the 1980s. We use
@@ -287,7 +287,7 @@ sections:
     pdflink: "/papers/PEtoGE.pdf"
     coauthors: >-
       with [Adam Guren](http://people.bu.edu/guren/), [Alisdair McKay](https://alisdairmckay.com/), and
-      [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*NBER Macroeconomics Annual 2020*, 175-223."
     links:
     - text: Online Appendix
@@ -298,7 +298,7 @@ sections:
     title: New Evidence on the Cyclicality of Employer-to-Employer Flows from Canada
     pdflink: "/papers/cwfpp.pdf"
     coauthors: >-
-      with [Alice Nakamura](http://www.alicenakamura.com/), [Emi Nakamura](http://eml.berkeley.edu/~enakamura),
+      with [Alice Nakamura](http://www.alicenakamura.com/), [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/),
       and [Kyle Phong](https://sites.google.com/view/kphong/home)
     book: "*American Economic Association Papers and Proceedings*, 109, 456-460, May 2019."
     links:
@@ -310,7 +310,7 @@ sections:
     title: 'The Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation'
     pdflink: "/papers/costsinflation.pdf"
     coauthors: >-
-      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura), [Patrick Sun](https://sites.google.com/site/patrickksun/home),
+      with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/), [Patrick Sun](https://sites.google.com/site/patrickksun/home),
       and [Daniel Villar](https://www.federalreserve.gov/econres/daniel-villar-vallenas.htm)
     book: "*Quarterly Journal of Economics*, 133(4), 1933-1980, November 2018."
     abstract: >-
@@ -345,7 +345,7 @@ sections:
   - id: 17
     title: 'High Frequency Identification of Monetary Non-Neutrality: The Information Effect'
     pdflink: "/papers/realrate.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Quarterly Journal of Economics*, 133(3), 1283-1330, August 2018."
     abstract: >-
       We present estimates of monetary non-neutrality based on evidence from highfrequency responses of real interest rates, expected inflation, and expected output
@@ -376,7 +376,7 @@ sections:
     title: 'The Discounted Euler Equation: A Note'
     pdflink: "/papers/discountedEuler.pdf"
     coauthors: >-
-      with [Alisdair McKay](https://alisdairmckay.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      with [Alisdair McKay](https://alisdairmckay.com/) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Economica*, 84, 820-831, October 2017."
     abstract: >-
       We present a simple model with income risk and borrowing constraints that yields a ‘discounted Euler
@@ -390,7 +390,7 @@ sections:
     pdflink: "/papers/stickysales.pdf"
     coauthors: >-
       with [Eric Anderson](http://www.kellogg.northwestern.edu/faculty/directory/anderson_eric_t.aspx),
-      [Benjamin Malin](https://www.minneapolisfed.org/people/benjamin-a-malin), [Emi Nakamura](http://eml.berkeley.edu/~enakamura),
+      [Benjamin Malin](https://www.minneapolisfed.org/people/benjamin-a-malin), [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/),
       and [Duncan Simester](https://mitsloan.mit.edu/faculty/directory/duncan-simester)
     book: "*Journal of Monetary Economics*, 90, 64-83, October 2017."
     abstract: >-
@@ -405,7 +405,7 @@ sections:
     title: 'Growth-Rate and Uncertainty Shocks in Consumption: Cross-Country Evidence'
     pdflink: "/papers/longrunrisk.pdf"
     coauthors: >-
-      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Dmitriy Sergeyev](https://sites.google.com/site/dmitriysergeyev/)
+      with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/) and [Dmitriy Sergeyev](https://sites.google.com/site/dmitriysergeyev/)
     book: "*American Economic Journal: Macroeconomics*, 9(1), 1-39, January 2017."
     abstract: >-
       We provide new estimates of the importance of growth-rate shocks and
@@ -428,7 +428,7 @@ sections:
     title: The Power of Forward Guidance Revisited
     pdflink: "/papers/forwardguidance.pdf"
     coauthors: >-
-      with [Alisdair McKay](https://alisdairmckay.com/) and [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+      with [Alisdair McKay](https://alisdairmckay.com/) and [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*American Economic Review*, 106(10), 3133-3158, October 2016."
     abstract: >-
       In recent years, central banks have increasingly turned to forward
@@ -450,7 +450,7 @@ sections:
     title: Are Chinese Growth and Inflation Too Smooth? Evidence from Engel Curves
     pdflink: "/papers/chinainflation.pdf"
     coauthors: >-
-      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura) and [Miao Liu](https://www.bc.edu/bc-web/schools/carroll-school/faculty-research/faculty-directory/miao-liu.html)
+      with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/) and [Miao Liu](https://www.bc.edu/bc-web/schools/carroll-school/faculty-research/faculty-directory/miao-liu.html)
     book: "*American Economic Journal: Macroeconomics*, 8(3), 113-144, July 2016."
     abstract: >-
       China has experienced remarkably stable growth and inflation in
@@ -470,7 +470,7 @@ sections:
   - id: 23
     title: 'Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions'
     pdflink: "/papers/fiscal.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*American Economic Review*, 104(3), 753-792, March 2014."
     abstract: >-
       We use rich historical data on military procurement to estimate
@@ -497,7 +497,7 @@ sections:
     title: Crises and Recoveries in an Empirical Model of Consumption Disasters
     pdflink: "/papers/cdisasters.pdf"
     coauthors: >-
-      with [Emi Nakamura](http://eml.berkeley.edu/~enakamura), [Robert Barro](https://scholar.harvard.edu/barro/home)
+      with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/), [Robert Barro](https://scholar.harvard.edu/barro/home)
       and [José Ursúa](https://www.linkedin.com/in/jose-ursua)
     book: "*American Economic Journal: Macroeconomics*, 5(3), 35-74, July 2013."
     abstract: >-
@@ -520,7 +520,7 @@ sections:
   - id: 25
     title: 'Lost in Transit: Product Replacement Bias and Pricing to Market'
     pdflink: "/papers/ippsubs.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*American Economic Review*, 102(7), 3277-3316, December 2012."
     abstract: >-
       In the microdata underlying US trade price indexes, 40 percent of
@@ -538,7 +538,7 @@ sections:
   - id: 26
     title: Price Setting in Forward-Looking Customer Markets
     pdflink: "/papers/habit.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Journal of Monetary Economics*, 58(3), 220-233, April 2011."
     abstract: >-
       If consumers form habits in individual goods, firms face a time-inconsistency problem.
@@ -556,7 +556,7 @@ sections:
   - id: 27
     title: Monetary Non-Neutrality in a Multi-Sector Menu Cost Model
     pdflink: "/papers/heterogeneity.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Quarterly Journal of Economics*, 125(3), 961-1013, August 2010."
     abstract: >-
       Empirical evidence suggests that as much as one-third of the U.S. business
@@ -585,7 +585,7 @@ sections:
   - id: 28
     title: 'Five Facts About Prices: A Reevaluation of Menu Cost Models'
     pdflink: "/papers/fivefacts.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: "*Quarterly Journal of Economics*, 123(4), 1415-1464, November 2008."
     abstract: >-
       We establish five facts about prices in the U.S. economy: (1) For consumer
@@ -613,153 +613,223 @@ sections:
     link_notes:
     - 'Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)'
   - id: 29
-    title: The Dynamic Behavior of the Real Exchange Rate in Sticky-Price Models
-    pdflink: "/papers/persist.pdf"
-    book: "*American Economic Review*, 98(1), 519-533, March 2008."
-    links:
-    - text: Theoretical Programs
-      url: "/papers/PersistModelForWeb.zip"
-    - text: Documentation
-      url: "/papers/persistReadme.pdf"
-      note: "[Erratum](/papers/persistErratum.pdf)"
-    - text: Response to Iversen and Söderström (2014)
-      url: "/papers/ResponseToIversenAndSoderstrom.pdf"
-    link_notes:
-    - >-
-      Appendix: [Derivation of the Model](/papers/persistappendix.pdf) Matlab Programs: [Empirical
-      Programs](/papers/PersistEmpForWeb.zip)
-  - id: 30
-    title: Optimal Monetary Policy in an Economy with Inflation Presistence
-    pdflink: "/papers/STjme.pdf"
-    book: "*Journal of Monetary Economics* 50(7), 1425-1456, October 2003."
+    title: Price Dynamics, Retail Chains and Inflation Measurement
+    pdflink: "/papers/retailchains.pdf"
+    coauthors: >-
+      with [Alice O. Nakamura](http://apps.business.ualberta.ca/anakamura/Default.htm)
+      and [Leonard I. Nakamura](http://www.philadelphiafed.org/research-and-data/economists/nakamura/)
+    book: "*Journal of Econometrics*, 161(1), 47-55, March 2011."
     abstract: >-
-      This paper studies optimal monetary policy in a model where inflation is persistent.
-      Two types of price setters are assumed to exist. One acts rationally given Calvo-type
-      constraints on price setting. The other type sets prices according to a rule-of-thumb. This
-      results in a Phillips curve with both a forward-looking term and a backward-looking term.
-      The Phillips curve nests a standard purely forward-looking Phillips curve as well as a
-      standard purely backward-looking Phillips curve as special cases. A cost push supply
-      shock is derived from microfoundations by adding a time varying income tax and by
-      making the elasticity of substitution between goods stochastic. A central bank loss
-      function for this model is derived from a second-order Taylor approximation of the
-      household's welfare function. Optimal monetary policy for different relative values of
-      the forward- and backward-looking terms is then analyzed for both the commitment case and
-      the case of discretion.
+      We use a large scanner price dataset to study grocery price dynamics. Previous analyses based on store
+      scanner data emphasize differences in price dynamics across products. However, we also document large
+      differences in price movements across different grocery store chains. A variance decomposition indicates
+      that characteristics at the level of the chains (as opposed to individual stores) explain a large fraction of
+      the total variation in price dynamics. Thus, retailer characteristics are found to be crucial determinants
+      of heterogeneity in pricing dynamics, in addition to product characteristics. We empirically explore how
+      the price dynamics we document affect price index measures.
+  - id: 30
+    title: Accounting for Incomplete Pass-Through
+    pdflink: "/papers/passthrough_dynamic.pdf"
+    coauthors: with Dawit Zerom
+    book: "*Review of Economic Studies*, 77(3), 1192-1230, July 2010."
+    abstract: >-
+      Recent theoretical work has suggested a number of potentially important factors in causing
+      incomplete pass-through of exchange rates to prices, including markup adjustment, local costs and
+      barriers to price adjustment. We empirically analyse the determinants of incomplete pass-through in
+      the coffee industry. The observed pass-through in this industry replicates key features of pass-through
+      documented in aggregate data: prices respond sluggishly and incompletely to changes in costs. We use
+      microdata on sales and prices to uncover the role of markup adjustment, local costs and barriers to
+      price adjustment in determining incomplete pass-through using a structural oligopoly model that nests
+      all three potential factors. The implied pricing model explains the main dynamic features of short and
+      long-run pass-through. Local costs reduce long-run pass-through (after six quarters) by 59% relative
+      to a Constant Elasticity of Substitution benchmark. Markup adjustment reduces pass-through by an
+      additional 33%, where the extent of markup adjustment depends on the estimated "super-elasticity"
+      of demand. The estimated menu costs are small (0.23% of revenue) and have a negligible effect on
+      long-run pass-through but are quantitatively successful in explaining the delayed response of prices to
+      costs. We find that delayed pass-through in the coffee industry occurs almost entirely at the wholesale
+      rather than the retail level.
     links:
-    - text: Erratum
-      url: "/papers/STjme03erratum.pdf"
-    - text: Programs
-      url: "/papers/STjme.zip"
-- id: published-essays-comments-and-discussions
-  title: Published Essays, Comments, And Discussions
-  works:
+    - text: Computational Appendix
+      url: "/papers/passthrough_dynamic_app.pdf"
   - id: 31
-    title: Comment on "The International Monetary Transmission Mechanism"
-    pdflink: "/papers/inttransmission.pdf"
-    book: by Santiago Camara and Lawrence Christiano.
-    links:
-    - text: Slides
-      url: "/papers/inttransmission_slides.pdf"
-    link_notes:
-    - "*NBER Macroeconomics Annual*, 141-148, April 2024."
+    title: Deconstructing the Success of RBC
+    pdflink: "/papers/mbc.pdf"
+    book: "*Economic Inquiry*, 47(4), 739-753, October 2009."
+    abstract: >-
+      The empirical success of Real Business Cycle (RBC) models is often judged by
+      their ability to explain the behavior of a multitude of real macroeconomic
+      variables using a single exogenous shock process. This paper shows that in
+      a model with the same basic structure as the bare bones RBC model, monetary,
+      cost-push or preference shocks are equally successful at explaining the behavior of
+      macroeconomic variables. Thus, the empirical success of the RBC model with
+      respect to standard RBC evaluation techniques arises from the basic form of the
+      dynamic stochastic general equilibrium model, not from the specific role of the
+      productivity shock.
   - id: 32
-    title: Thoughts on Fed Policy and the Fed's Framework
-    pdflink: "/papers/FedFramework2024.pdf"
-    book: in Bordon, M.D., J.H. Cochrane, and J.B. Taylor (ed),
-    link_notes:
-    - >-
-      *Getting Global Monetary Policy on Track*, Hoover Institution Press, Stanford, CA., 2025, p. 363-373.
+    title: Pass-Through in Retail and Wholesale
+    pdflink: "/papers/PassThroughRetailWholesale.pdf"
+    book: "*American Economic Review P&P*, 98(2), 430-437, May 2008."
+    links:
+    - text: Published Version
+      url: "/papers/retail_wholesale.pdf"
+    - text: Table
+      url: "/papers/table_detail.pdf"
+    - text: NBER Digest
+      url: "/papers/nberdigest09082008.pdf"
   - id: 33
-    title: Comment on "The Rise, the Fall, and the Resurrection of Iceland"
-    pdflink: "/papers/SteinssonBrookingsCommentPublished2017.pdf"
-    book: by Sigridur Benediksdottir, Gauti B. Eggertsson, and Eggert Thorarinsson.
-    link_notes:
-    - >-
-      *Brookings Panel on Economic Acticity*, 289-302, September 2017. [Slides](/papers/SteinssonBrookingsDiscussion2017.pdf)
-      (also given at NBER ME Meeting, November 2017)
+    title: Layoffs and Lemons over the Business Cycle
+    pdflink: "/papers/lemons.pdf"
+    book: "*Economics Letters*, 99(1), 55-58, April 2008."
+    abstract: >-
+      This paper develops a simple model in which unemployment arises from a combination of selection and bad luck. During recessions, the
+      proportion of workers who are laid off due to low productivity declines during recessions, diminishing the adverse signaling effect of an
+      unemployment spell. Wage regressions estimated using the Displaced Workers Supplement support this basic prediction of the model.
+- id: published-essays-comments-and-discussions
+  title: Other Publications
+  works:
+  - id: 34
+    title: Using Supervised Learning to Estimate Inequality in the Size and Persistence of Income Shocks
+    pdflink: https://dl.acm.org/doi/fullHtml/10.1145/3593013.3594113
+    coauthors: >-
+      with [David Bruns-Smith](https://brunssmith.com/) and
+      [Avi Feller](https://www.avifeller.com/)
+    book: >-
+      *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT)*, 2023.
+    abstract: >-
+      Household responses to income shocks are important drivers of financial fragility, the evolution of wealth inequality, and the effectiveness of fiscal and monetary policy. Traditional approaches to measuring the size and persistence of income shocks are based on restrictive econometric models that impose strong homogeneity across households and over time. In this paper, we propose a more flexible, machine learning framework for estimating income shocks that allows for variation across all observable features and time horizons. First, we propose non-parametric estimands for shocks and shock persistence. We then show how to estimate these quantities by using off-the-shelf supervised learning tools to approximate the conditional expectation of future income given present information. We solve this income prediction problem in a large Icelandic administrative dataset, and then use the estimated shocks to document several features of labor income risk in Iceland that are not captured by standard economic income models.
+  - id: 35
+    title: "Returns to Scale: Estimation and Analysis of Japan's Turbulent 1964-1988 Economy"
+    pdflink: "/papers/returnstoscale.pdf"
+    coauthors: >-
+      with [W. Erwin Diewert](http://faculty.arts.ubc.ca/ediewert/hmpgdie.htm),
+      [Takanobu Nakajima](http://nakajima-ri.net/),
+      [Alice O. Nakamura](http://apps.business.ualberta.ca/anakamura/Default.htm), and
+      [Masao Nakamura](http://strategy.sauder.ubc.ca/nakamura/)
+    book: "*Canadian Journal of Economics*, 44(2), 451-485, May 2011."
+    abstract: >-
+      There is policy interest in factoring productivity growth into technical progress
+      and returns to scale components. Our approach uses exact index number methods to
+      reduce the parameters that must be estimated, and allows us to exploit the cross-sectional
+      dimension of plant-level panel data. We show that the same equation can also be used to
+      estimate 'Harberger' scale economies and technical progress indicators that require fewer
+      assumptions. Estimates of the elasticity of scale for Japanese establishments in three major
+      industries over 1964-88 are presented. Our study spans the high growth era of the 1960s,
+      two oil shocks, and other exogenous shocks.
+  - id: 36
+    title: Jobs Online
+    pdflink: "/papers/jobsonline.pdf"
+    coauthors: >-
+      with [Alice O. Nakamura](http://apps.business.ualberta.ca/anakamura/Default.htm),
+      [Kathryn L. Shaw](http://faculty-gsb.stanford.edu/shaw/),
+      [Richard B. Freeman](http://www.nber.org/~freeman/), and
+      [Amanda Pyman](http://www.kent.ac.uk/kbs/community/staff/profiles/pyman_amanda.html)
+    book: >-
+      in *Studies of Labor Market Intermediation*, David H. Autor (ed), University of Chicago Press, Chicago, IL, November 2009.
+  - id: 37
+    title: "Technical Change in a Bubble Economy: Japanese Manufacturing Firms in the 1990s"
+    pdflink: "/papers/bubble_economy.pdf"
+    coauthors: >-
+      with [Takanobu Nakajima](http://nakajima-ri.net/),
+      [Alice O. Nakamura](http://apps.business.ualberta.ca/anakamura/Default.htm), and
+      [Masao Nakamura](http://strategy.sauder.ubc.ca/nakamura/)
+    book: "*Empirica*, 34(3), 247-271, May 2007."
+    abstract: >-
+      An important economic policy issue is to ascertain when and if technical
+      change (TC) is driving measured growth in productivity. Was this the case for Japan
+      during the late 1980s when a massive financial bubble was being formed? This paper
+      addresses this question, after first further developing methods needed for this purpose.
+      The movement of firms' TC is of particular policy interest to Japan whose economy has
+      been suffering from a prolonged recession for more than a decade since the burst of the
+      bubble in 1990. In the period of time immediately prior to the burst of the bubble, our
+      estimation results show a significant drop in technical progress. What we believe these
+      results reflect is that Japanese manufacturing firms made excessive investments in
+      production inputs in the years when the bubble was being formed. This excessive
+      investment in inputs did not contribute positively to TC and hence the measured productivity and economic growth of the bubble period in the late 1980s was unsustainable.
+  - id: 38
+    title: Cost Pass-Through in the U.S. Coffee Industry
+    pdflink: "/papers/coffeeUSDA.pdf"
+    coauthors: >-
+      with [Ephraim Leibtag](http://www.ers.usda.gov/AboutERS/Bios/view.asp?ID=ELEIBTAG),
+      [Alice O. Nakamura](http://apps.business.ualberta.ca/anakamura/Default.htm), and
+      [Dawit Zerom](http://business.fullerton.edu/isds/profile.aspx?ID=ZeroDawit)
+    book: USDA Economic Research Report No. (ERR-38), March 2007.
+    abstract: >-
+      A rich data set of coffee prices and costs was used to determine to what extent changes
+      in commodity costs affect manufacturer and retail prices. On average, a 10-cent increase
+      in the cost of a pound of green coffee beans in a given quarter results in a 2-cent
+      increase in manufacturer and retail prices in that quarter. If a cost change persists for
+      several quarters, it will be incorporated into manufacturer prices approximately cent-forcent with the commodity-cost change. Given the substantial fixed costs and markups
+      involved in coffee manufacturing, this translates into about a 3-percent change in retail
+      prices for a 10-percent change in commodity prices. We do not find robust evidence that
+      coffee prices respond more to increases than to decreases in costs. 
+  - id: 39
+    title: Inflation Forcasting Using a Neural Network
+    pdflink: "/papers/nn_new.pdf"
+    book: "*Economics Letters*, 86(3), 373-378, March 2005."
+    abstract: >-
+      This paper evaluates the usefulness of neural networks for inflation forecasting. In a pseudo-out-of-sample
+      forecasting experiment using recent U.S. data, neural networks outperform univariate autoregressive models on
+      average for short horizons of one and two quarters. A simple specification of the neural network model and
+      specialized estimation procedures from the neural networks literature appear to play significant roles in the success
+      of the neural network model.
 - id: unpublished-papers
   title: Unpublished Papers
   works:
-  - id: 34
+  - id: 40
     title: Monetary Economics at the NBER
     pdflink: "/papers/MoneyatNBER.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: December 2019.
-  - id: 35
+  - id: 41
     title: Should the Fed Ignore the Most Important Bias in the CPI?
     pdflink: "/papers/ignorethebias07.pdf"
-    coauthors: with [Emi Nakamura](http://eml.berkeley.edu/~enakamura)
+    coauthors: with [Jón Steinsson](https://eml.berkeley.edu/~jsteinsson/)
     book: December 2007.
-  - id: 36
-    title: The Implementation of Monetary Policy in an Era of Electronic Payment Systems
-    pdflink: "/papers/ImplementMP.pdf"
-    book: March 2005.
 - id: discussions
-  title: Discussions
+  title: Recent Lectures and Discussions
   works:
-  - id: 37
-    title: Some International Evidence on Non-Linear Phillips Curves
-    pdflink: "/papers/SteinssonBenignoEggertsson.pdf"
-    book: Discussion of paper by Pierpaolo Benigno and Gauti Eggertsson at AEA Meetings, January 2024
-  - id: 38
-    title: Fed Communication
-    pdflink: "/papers/SteinssonFedCommunication.pdf"
-    book: >-
-      Discussion of paper by Stephen G. Cecchetti and Kermit L. Schoenholtz at Fed Listens conference,
-      June 2019
-  - id: 39
-    title: Identification in Macroeconomics
-    pdflink: "/papers/idmacroChina.pdf"
-    book: Presentation given at a conference on Frontiers of Macroeconomics in Shanghai, December 2018
-  - id: 40
-    title: The Rise, the Fall, and the Resurrection of Iceland
-    pdflink: "/papers/SteinssonBrookingsDiscussion2017.pdf"
-    book: by Sigridur Benediksdottir, Gauti B. Eggertsson, and Eggert Thorarinsson.
-    link_notes:
-    - >-
-      Discussion at Brookings Panel on Economic Acticity, September 2017, and NBER ME Meeting, November
-      2017 (see also published comments listed above)
-  - id: 41
-    title: Large and State-dependent Effects of Quasi-random Monetary Experiments
-    pdflink: "/papers/SteinssonDiscussionJordaSchularickTaylorHandout.pdf"
-    book: by Oscar Jorda, Moritz Schularick, and Alan M. Taylor. Discussion at NBER ME Meeting, October
-      2016
   - id: 42
-    title: Monetary Policy According to HANK
-    pdflink: "/papers/SteinssonDiscussionKaplanMollViolanteHandout.pdf"
-    book: by Greg Kaplan, Ben Moll, and Gianluca Violante. Discussion at NBER EF&G Meeting, February 2016
+    title: Being Rational About Rational Expectations
+    pdflink: "/papers/AEAAFArational.pdf"
+    book: AEA-AFA Luncheon Speech, January 2025.
+    links:
+    - text: Webcast
+      url: https://www.aeaweb.org/conference/livecasts/2025/aea-afa-luncheon
   - id: 43
-    title: The Forward Premium Puzzle
-    pdflink: "/papers/DNGPdiscussionSteinsson.pdf"
-    book: >-
-      by Marco Del Negro, Marc Giannoni, and Christina Patterson. Discussion at NBER EF&G Meeting, October
-      2015
+    title: Natural Experiments to Guide Macroeconomic Policy
+    pdflink: "/papers/NatExpGuideMacroPolicy.pdf"
+    book: Malim Harding Lecture, University of Toronto, October 2024.
+    links:
+    - text: Webcast
+      url: https://newsletter.economics.utoronto.ca/emi-nakamura-delivers-2024-25-malim-harding-lecture/
+  - id: 44
+    title: Micro and Macro Evidence on Inflation and Monetary Policy
+    pdflink: "/papers/AFAMicroMacroInflation.pdf"
+    book: AFA Lecture at ASSA Meetings, January 2022.
+  - id: 45
+    title: "Monetary Policy: Conventional and Unconventional"
+    pdflink: "/papers/Nakamura_Stockholm.pdf"
+    book: Discussion at Nobel Symposium, May 2018.
+    links:
+    - text: Version with Notes
+      url: "/papers/Nakamura_Stockholm_notes.pdf"
+  - id: 46
+    title: Uniform Pricing in US Retail Chains
+    pdflink: "/papers/Nakamura_Discussion_NBERIO.pdf"
+    book: by Stefano DellaVigna and Matthew Gentzkow. Discussion at NBER IO Meeting, February 2018.
+  - id: 47
+    title: The Friedman Forces in the Phillips Curve
+    pdflink: "/papers/Nakamura_Discussion_Friedman.pdf"
+    book: Discussion prepared for 50th anniversary of Milton Friedman's 1968 presidential address at the AEA Meetings, January 2018.
+  - id: 48
+    title: Behavioral Macro
+    pdflink: "/papers/Nakamura_BEAM.pdf"
+    book: Discussion at BEAM conference, May 2017.
 - id: popular-writing
   title: Popular Writing
   works:
-  - id: 44
-    title: Thoughts on AJR's Nobel Prize
-    pdflink: "/papers/ThoughtsOnAJRNobelPrize.pdf"
-    book: October 2024 (and September 2025).
-  - id: 45
-    title: A Painless Disinflation Is No Longer Plausible
-    pdflink: >-
-      https://www.economist.com/by-invitation/2022/05/13/jon-steinsson-believes-that-a-painless-disinflation-is-no-longer-plausible
-    book: "*[Economist](http://www.economist.com/)*; May 13th 2022."
-  - id: 46
-    title: How Should the Fed Respond to the Highest Inflation in 40 Years?
-    pdflink: https://pairagraph.com/dialogue/fd80f947e4de4a2e85bdb209aa612bd1/1
-    book: a debate with Claudia Sahm, *[Pairagraph](https://pairagraph.com/)*, December 2021.
-  - id: 47
-    title: A New Macroeconomics?
-    pdflink: "/papers/ANewMacro.pdf"
-    book: July 2nd 2021.
-  - id: 48
-    title: Iceland's Experience May Offer a Lesson
-    pdflink: "/papers/2015FTLessonsfromIceland.pdf"
-    book: "*[Financial Times](http://www.ft.com/)*; June 29th 2015."
   - id: 49
     title: Don't Replace Data with Ideology
     pdflink: "/papers/waronstats_web.pdf"
-    coauthors: with Emi Nakamura and Nicolas Vincent
+    coauthors: with Jón Steinsson and Nicolas Vincent
     book: "*[Bloomberg View](http://www.bloomberg.com/view/)*; June 12th 2012."

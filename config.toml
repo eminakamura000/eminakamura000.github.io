@@ -1,14 +1,13 @@
-baseURL = "https://jsteinsson.github.io/"
+baseURL = "https://eminakamura.github.io/"
 relativeURLs = true
-title = "Jon Steinsson"
+title = "Emi Nakamura"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Marek Professor of Public Policy and Economics, University of California, Berkeley"
-    logo = "images/jon-steinsson.jpg"
+    shortbio = "E. Morris Cox Professor of Economics, University of California, Berkeley"
+    logo = "index_files/image001.jpg"
     faviconVersion = "4"
-    logoVersion = "2"
     

@@ -36,14 +36,17 @@
                 <!-- begin photo -->
                 {{ with .Site.Params.logo }}
                 {{ $logoPath := . }}
-                {{ if not (hasPrefix $logoPath "/") }}
+                {{ if and (not (hasPrefix $logoPath "/")) (not (hasPrefix $logoPath "http://")) (not (hasPrefix $logoPath "https://")) }}
                 {{ $logoPath = printf "/%s" $logoPath }}
                 {{ end }}
                 {{ $logo := ($logoPath | relURL) }}
+                {{ if or (hasPrefix $logoPath "http://") (hasPrefix $logoPath "https://") }}
+                {{ $logo = $logoPath }}
+                {{ end }}
                 {{ with $.Site.Params.logoVersion }}
                 {{ $logo = printf "%s?v=%s" $logo . }}
                 {{ end }}
-                <img src="{{ $logo }}" alt="Photo of Jon Steinsson" />
+                <img src="{{ $logo }}" alt="Photo of {{ $.Site.Title }}" />
                 {{ end }}
                 <!-- end photo -->
 

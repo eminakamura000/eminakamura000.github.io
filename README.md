@@ -13,9 +13,8 @@ This guide explains the basic workflow for updating the website.
 
 - Main website text/content: `content/`
   - Bio: `content/home.md`.
-  - Research papers list: `content/research-list.yaml`.
+  - Research: `content/research.html`.
   - Teaching: `content/teaching.html`.
-  - Writings in Icelandic: `content/writings-icelandic.html`, `content/gmoggi.html`, `content/gdeigla.html`, and `content/galmennt.html`.
 - PDFs, replication packages, and downloadable files: `static/` (usually `static/papers/`)
 - Sidebar settings (name, short bio, profile photo): `config.toml`
 
@@ -24,13 +23,13 @@ Do not manually edit `public/` (it is generated automatically).
 ## Standard Workflow (Every Update)
 
 1. Open this folder in your editor:
-   - `/GitHub/jonsteinsson.github.io`
+   - `/GitHub/eminakamura.github.io`
 2. Make your content/file edits.
 3. Preview locally:
    - Open Terminal
    - Run:
      ```bash
-     cd .../GitHub/jonsteinsson.github.io
+     cd .../GitHub/eminakamura.github.io
      hugo serve
      ```
    - Open the provided localhost link in your browser.
@@ -47,40 +46,16 @@ Do not manually edit `public/` (it is generated automatically).
 1. Add the paper PDF (and any replication `.zip` or data files) to:
    - `static/papers/`
 2. Open:
-   - `content/research-list.yaml`
-3. Add a new entry in the correct section under `works:` using this format:
-
-```yaml
-sections:
-  - id: (relevant section id, e.g., working-papers)
-    title: (relevant section title, e.g., Working Papers)
-    works:
-      - id:(unique identifier, e.g. 999)
-        title: "Paper title"
-        pdflink: "/papers/your-paper-file.pdf"
-        coauthors: "with [Coauthor Name](https://coauthor-website.com)"
-        book: "Optional publication/status line (example: '*Journal Name*, volume(issue), pages, year', or 'by Oscar Jorda, Moritz Schularick, and Alan M. Taylor. Discussion at NBER ME Meeting, October 2016')."
-        notes:
-          - "Optional extra line"
-        abstract: >
-          Abstract text.
-        links:
-          - text: "Appendix"
-            url: "/papers/appendix.pdf"
-            note: "Optional note"
-        link_notes:
-          - "Optional extra line (example: 'Press: [article1 (date)](https://article-link.com)')"
-```
-
-4. Ensure you use a new `id` that is not already used. The actual `id` value does not matter, as long as it is unique.
-5. Save the file.
-6. Preview with `hugo serve`.
-7. If it looks good, commit and push from GitHub Desktop.
+   - `content/research.html`
+3. Add the paper entry in HTML format (matching the existing formatting and section order).
+4. Save the file.
+5. Preview with `hugo serve`.
+6. If it looks good, commit and push from GitHub Desktop.
 
 ### Other Common Edits
 
-- Edit an existing paper: update its entry in `content/research-list.yaml`.
-- Reorder papers: move entries up/down within `works:` (inside `content/research-list.yaml`).
+- Edit an existing paper: update its entry in `content/research.html`.
+- Reorder papers: move entries up/down within `content/research.html`.
 - Edit bio/contact text: update `content/home.md` using [markdown syntax](https://www.markdownguide.org/basic-syntax/).
 - Update sidebar title/short bio/photo filename: edit `config.toml`.
 
