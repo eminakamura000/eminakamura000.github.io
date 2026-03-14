@@ -598,7 +598,7 @@ sections:
     links:
     - text: ELI table (Excel)
       url: "/papers/fivefactsELITableSup1.xls"
-      text: Tables in Excel 
+    - text: Tables in Excel 
       url: "/papers/fivefactsTablesForWeb.xls"
     - text: Tables from Supplement (Excel)
       url: "/papers/fivefactsTablesforWebSup.xls"        
