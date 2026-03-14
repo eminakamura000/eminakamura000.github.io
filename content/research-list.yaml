@@ -305,7 +305,7 @@ sections:
     links:
     - text: Replication Files
       url: "/papers/ReplicationCWFPP.zip"
-   link_notes:
+    link_notes:
     - >-
         Companion paper: [Worker Reallocation over the Business Cycle: Evidence from Canada](/papers/cwf.pdf)
   - id: 34
