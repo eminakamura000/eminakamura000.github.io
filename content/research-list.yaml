@@ -595,22 +595,17 @@ sections:
       is highest in the first quarter and then declines. (5) We find no evidence of upwardsloping hazard functions of price changes for individual products. We show that the
       first, second, and third facts are consistent with a benchmark menu-cost model,
       whereas the fourth and fifth facts are not.
-    resources:
-      - type: link
-        text: Tables (Excel)
-        url: "/papers/fivefactsTablesForWeb.xls"
-      - type: link
-        text: Tables from Supplement (Excel)
-        url: "/papers/fivefactsTablesforWebSup.xls"
-      - type: note
-        text: "Supplementary Material: [More Facts About Prices](/papers/fivefactssupplement.pdf)"
-      - type: link
-        text: ELI table (Excel)
-        url: "/papers/fivefactsELITableSup1.xls"
-      - type: note
-        text: "Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)"
-      - type: note
-        text: "[The Economist (11/9/06): Sticky Situations](/papers/Economist200611.pdf)"
+    links:
+    - text: Tables (Excel)
+      url: "/papers/fivefactsTablesForWeb.xls"
+    - text: Tables from Supplement (Excel)
+      url: "/papers/fivefactsTablesforWebSup.xls"
+    - text: ELI table (Excel)
+      url: "/papers/fivefactsELITableSup1.xls"     
+    link_notes:
+    - "Supplementary Material: [More Facts About Prices](/papers/fivefactssupplement.pdf)"
+    - "Frequency of Price Change by ELI: [ELI table (PDF)](/papers/fivefactsELITable.pdf)"
+    - "[The Economist (11/9/06): Sticky Situations](/papers/Economist200611.pdf)"
   - id: 21
     title: Price Dynamics, Retail Chains and Inflation Measurement
     pdflink: "/papers/retailchains.pdf"
