@@ -655,13 +655,9 @@ sections:
     title: Pass-Through in Retail and Wholesale
     pdflink: "/papers/PassThroughRetailWholesale.pdf"
     book: "*American Economic Review P&P*, 98(2), 430-437, May 2008."
-    links:
-    - text: Published Version
-      url: "/papers/retail_wholesale.pdf"
-    - text: Table
-      url: "/papers/table_detail.pdf"
-    - text: NBER Digest
-      url: "/papers/nberdigest09082008.pdf"
+    resources:
+     - type: note
+       text: "[Published Version](/papers/retail_wholesale.pdf) -- [Table](/papers/table_detail.pdf) -- [NBER Digest](/papers/nberdigest09082008.pdf)"
   - id: 17
     title: Layoffs and Lemons over the Business Cycle
     pdflink: "/papers/lemons.pdf"
