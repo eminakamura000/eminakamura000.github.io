@@ -368,7 +368,8 @@ sections:
       url: "/papers/realratesreplication.zip"
     - text: Policy News Shocks (original sample period)
       url: "/papers/PolicyNewsShocksWeb.xlsx"
-      note: >-
+    link_notes:
+    - >-
         Policy News Shocks constructed by Acosta, Brennan, and Jacobson for an
         updated sample period may be found [here](https://www.acostamiguel.com/research.html).
   - id: 32
