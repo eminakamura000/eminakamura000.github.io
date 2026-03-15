@@ -655,7 +655,7 @@ sections:
     book: "*American Economic Review P&P*, 98(2), 430-437, May 2008."
     resources:
      - type: note
-       text: "[Published Version](/papers/retail_wholesale.pdf) -- [Table](/papers/table_detail.pdf) -- [NBER Digest](/papers/nberdigest09082008.pdf)"
+       text: "[Table](/papers/table_detail.pdf) -- [NBER Digest](/papers/nberdigest09082008.pdf)"
   - id: 17
     title: Layoffs and Lemons over the Business Cycle
     pdflink: "/papers/lemons.pdf"
