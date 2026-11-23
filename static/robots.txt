@@ -1,0 +1,6 @@
+# Everyone is welcome to crawl this site, including search engines
+# and AI crawlers (GPTBot, ClaudeBot, Google-Extended, etc.).
+User-agent: *
+Allow: /
+
+Sitemap: https://eminakamura.com/sitemap.xml
